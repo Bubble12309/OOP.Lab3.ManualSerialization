@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="entry.FrmMain">
+  <grid id="27dc6" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="0">
+    <constraints>
+      <xy x="20" y="20" width="117" height="209"/>
+    </constraints>
+    <properties>
+      <background color="-1"/>
+      <preferredSize width="650" height="800"/>
+    </properties>
+    <clientProperties>
+      <html.disable class="java.lang.Boolean" value="false"/>
+    </clientProperties>
+    <border type="none"/>
+    <children/>
+  </grid>
+</form>
